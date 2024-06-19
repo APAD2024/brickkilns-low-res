@@ -158,17 +158,13 @@ for i, row in gdf.iterrows():
 
 - Run the Entire Notebook: After setting the paths and loading the model, run the entire notebook to start the detection process.
 
-
-## Methodology
-[ ] to be done
-
 ## Contributors
 - Suleman Hamdani
 - Khizer Zakir
 - Hassan Aftab
 
 ## Contact Us
-
+If you have any questions regarding APAD or the repository itself, contact us here: apad.world.proj@gmail.com
 
 
 
